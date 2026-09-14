@@ -1,2 +1,0 @@
-This app starts off by saying "Hello World!" and then updates when the user provides a new string and clicks a button, changing the text to "Hello <new-string>"
-![Screenshot 2026-09-14 at 3.26.11 PM.png](../../../../../Screenshots/Screenshot%202026-09-14%20at%203.26.11%E2%80%AFPM.png)
